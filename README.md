@@ -1,6 +1,6 @@
 # IagoVinicius12
 <br>Me apresentando</br>
-<br>Meu nome é Iago Vinícius Braga França, atualmente estou cursando Engenharia da Computação-CEFET-MG.</br>
+<br>Meu nome é Iago Vinícius Braga França, atualmente estou cursando Engenharia da Computação-UFU.</br>
 Tenho conhecimentos nas seguintes linguagens:
 <div >
 <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
